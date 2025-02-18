@@ -1,3 +1,7 @@
+[!
+    [MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)](https://www.linkedin.com/in/varun-v-nayak)
+
+
 ## Hi there 👋
 
 <!--
