@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 # I'm Varun Nayak
 
-**`First Year Computer Science with Artificial Intelligence student and Founder of Flashcard Vault`**
+**`Second Year Computer Science with Artificial Intelligence student and Founder of Flashcard Vault`**
 
-<li>First year student at the University of York
+<li>Second year student at the University of York
 <li>Career Aspirations: Software Engineering (Full stack development), Cybersecurity and AI. 
 
 <li>Founder of Flashcard Vault, a platform where I help students ace their exams one card at a time through selling the resources that I created and used while studying for my A levels.
