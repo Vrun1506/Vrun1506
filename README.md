@@ -1,52 +1,79 @@
 [![MasterHead](https://raw.githubusercontent.com/simon-zerisenay/simon-zerisenay/main/work.gif)](https://www.linkedin.com/in/varun-v-nayak/)
 
+<h1 align="center">Hi there, I'm Varun Nayak 👋</h1>
 
-## Hi there 👋
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Computer+Science+with+AI+%40+University+of+York;Aspiring+AI+Engineer;Building+Sigora;NVIDIA+Track+Winner+%40+Mistral+AI+Hackathon" alt="Typing SVG" />
+  </a>
+</p>
 
-<!--
-**Vrun1506/Vrun1506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/varun-v-nayak/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:varun.nayak2025@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Vrun1506&label=Profile%20views&color=2F81F7&style=for-the-badge" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
 
+- 🎓 Second-year **Computer Science with Artificial Intelligence** student at the **University of York**
+- 🤖 Career aspiration: **AI Engineer**
+- 🛠️ Currently building **Sigora**
+- 🌱 Always learning, shipping, and breaking things to understand how they work
+- 📫 Reach me at **varun.nayak2025@gmail.com**
 
-# I'm Varun Nayak
+---
 
-**`Second Year Computer Science with Artificial Intelligence student and Founder of Flashcard Vault`**
+## 🏆 Highlights
 
-<li>Second year student at the University of York
-<li>Career Aspirations: Software Engineering (Full stack development), Cybersecurity and AI. 
+> 🥇 **NVIDIA Track Winner** — Mistral AI Worldwide Hackathon
 
-<li>Founder of Flashcard Vault, a platform where I help students ace their exams one card at a time through selling the resources that I created and used while studying for my A levels.
+---
 
-<li>
+## 💼 Stuff I've Shipped
 
-## Contacts
+| Project | Description | Link |
+| :------ | :---------- | :--- |
+| **Imperial Entrepreneurs** | Website for the Imperial Entrepreneurs community | [Visit »](https://www.imperialentrepreneurs.com) |
+| **Claude UX** | An experiment exploring AI-powered user experiences | [Visit »](https://claude-ux.vercel.app) |
+| **Flashcard Vault** | A study/flashcard tool *(currently down for major improvements)* | 🚧 Coming back soon |
 
-- 📧 Email: varun.nayak2025@gmail.com
-- <img src = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAclBMVEUCdLP///8AbK/E2em20eQAcrI9ib4AcLLm8fdBjsAAaa4Ab7EAbbCVvdp4qs/Z6fP2+/0AeLXu9vqtzOLo8vgogrpoosvg7fWAsdO91efI3uyJttaewtzT5fBtpcwTe7dam8cwhbxMk8OQudekx99dncgnR5uCAAAGPUlEQVR4nO3da3eiMBAG4CSaUgMqFxXBu7b//y8u2HarFpnBtZsZzrwf9uwXKs8Bk5CEUemr5OWAe8r8mqS+/5tmRxUZ/omSfZY2CNOlMoHqRwKTrNJbYZZEvs/rqYmS4bVw4nyf0rNj3eRSuDe+T+gXYvbfwkUfgRVx+yVc9+4W/Yxbfwhza32fyi/F2tezcBH6PpNfS7iohXnY10tYXcQwr4SnfnWE14nGlfDQ30tYXcSDVmnQa2GQqk0/+8KvmI0a9Fw4UEXPhYUa9lw4FCH3iJB/RMg/IuQfEfKPCPmns9CGYWSikM9Tczdh4Nx8e1pn69Ni7gwPZBdhaPbD+GIpbuQ4zELihdYsZ9crj3r67uhfR7TQjKb6Z8o5+ZlIrNAtG3xV4gX1JQ+k8LzC0ZwlcSJO2ALUekWbiBK6VQtQ6y3p7yJGGBxbgZr2sgBCaIPbXuI2G8r9IkJoxgBQ6wlhIiy0QQwKXwmvQMLC8E5PeJUF3a1GsNA1jWVuU9LtMWBhggDqWJG9TUFhsMAI9ZGvMGobznxnRbY1BYWmQAkzslMhsLBECQdkmxpYiGlKq2ENY+EGJaTbXcDCAUpId0oSFmYo4ZrsExQoRA3aqmdEvr2FfUEJ53x7fOVS2KenZBsahNC8IYSEtzcing8PMDDe/afTfSCIZ3wHj9veyPYVuHka8CLGO7LtDG6uDZyomdD9FuKEFhh90x3P1EHNCNvktQU4JTwNpbCz+nZ3f8p0GpEGYldmrLr3iFFQX+/Grq7ZO7MZK9LfwTroFVJrRj/bm+JAHthlHd+6Y3E5/R1nBwaL3N32YlinFm9lnsZpPhgfLQdf5/00NjDOmfqfiMv7bg/tiWJi+4js+uIfEfKPCPlHhPxDU2irAZOt/33C2IKc0AaRqYvIJIddkqigrjbzb0+gpITVqNfs3sfFNP14honTNC+Hp/d55B6fKUEJIyDNqzLAQT9O2ZrwPWueLUnL08uj+8oxwt0YyKrps+fr1mPWN7s3QnfMWjdfzdYj88iVxMwIg6tPaUOLYEfAQePLSdYgWiDWmqfboPsi3lOErw1tASi8WMyxbo/bLaBn2873KgVhtMPtaDln89KxYfQvtG4Lb368TMdd196F1uE2Clxk0KmD9C0MEtxulqvkXeZRPAuDeduKyN3MOizn+RUGc2gL+b1PTNBEr8L2Na3WbNCdv0+hRe4oa0yGbVF9Cru3opfBFijzKHT7fwHqGAf0KQwxW5FagrxP/QmXuO3VLRmhGht/wn+8ghq7L9mf8Al5wVxE1kLU9nnWQo2Zi+MtXCL6RN7CEnGb8hZqxDMGcyHiNmUuRNR8ZC5smsfslxAxcqMljNO027wb4otIRRgXq/18p6qbbjdaFngmvOhCQ1guEleXLbLnhEZNsNMbOQthvr8t5WPD4IQ7Nk4YCN+aflXDuiPuVgWbGv/C5Z0tjhHuhSuwEoB34f3yNtE75njwFWvfwmHLc7obwsfDr+t4FqbtH434KoJTGZ6F7S9mGsRk1ZT2NQROz87hPzGjLYTq2jh42j+Gxt5ehTG01Il5CRl69dGrEH6nDNEnQm8gexWCL4DbAJ43hiZNvQrBMaVycFUOqG6MT+ErPCuPeM16DwzbfAoLWIhoaigLEa+4B/AaIzT09ilEFAhDNKaUhYj1P8SoZktYiKmlkYCDb8rXELGzySqwQ4RGfh6FmN+ZshbcUkRZiKhTwFuI6PCrYRs4rUhYmPdeiKnaI0IRilCEIhShCEUoQhGKUIQiFKEIRShCEYpQhCIUoQhFKEIRilCEIhShCEUoQhGKUIQiFKEIRShCEYpQhCJ8RDj7RSGNtxFmj1Qsxwn/y/sWSr1AaToogQ46oAo7gp8NlftCCS2UJx7V+a88obYJ84iQf0TIPyLkHxHyjwj5R4T8I0L+qYRFz4WFwpT9ZhxTKrAuH++YqQKr1rGOtbFC/tYH09iRVnAJUM4xb5UQUdicbaxNK6FeImrhME201LUwxf+KGbPYJD0LW6v5ss65FHEtbKnIzDpupb+EetJHopvob6Fe3SkczjfWfVau/xTqYtevbtHsBvpaqONT0lThnmUCk5z+1iP8K6yM2T6JDP9EyX54UW/xQlgnLwfcU+bXpD9yXZrha8XjKwAAAABJRU5ErkJggg=="> LinkedIn: https://www.linkedin.com/in/varun-v-nayak
+---
 
-### 🧰 Languages and Tools
+## 🧰 Languages & Tools
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>
-<br />
+<p align="left">
+  <img alt="Python" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  <img alt="Java" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img alt="JavaScript" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  <img alt="HTML" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img alt="CSS" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  <img alt="React" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="Node.js" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="Flask" width="40" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" />
+  <img alt="Git" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img alt="GitHub" width="40" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</p>
 
-#
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vrun1506&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vrun1506&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vrun1506&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+<p align="center"><i>Thanks for stopping by — let's build something great together! 🚀</i></p>
