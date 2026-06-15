@@ -40,9 +40,9 @@
 
 | Project | Description | Link |
 | :------ | :---------- | :--- |
-| **Imperial Entrepreneurs** | Website for the Imperial Entrepreneurs community | [Visit »](https://www.imperialentrepreneurs.com) |
-| **Claude UX** | An experiment exploring AI-powered user experiences | [Visit »](https://claude-ux.vercel.app) |
-| **Flashcard Vault** | A study/flashcard tool *(currently down for major improvements)* | 🚧 Coming back soon |
+| **Imperial Entrepreneurs** | Website for the Imperial Entrepreneurs community (AI-powered candidate matching coming soon 👀) | [Visit »](https://www.imperialentrepreneurs.com) |
+| **Claude UX** | On Device Knowledge Graph Synthesiser to ensure vibecoders learn from their previous chats | [Visit »](https://claude-ux.vercel.app) |
+| **Flashcard Vault** | PDF to Anki tool (80 monthly active users) *(currently down for major improvements)* | 🚧 Coming back soon |
 
 ---
 
