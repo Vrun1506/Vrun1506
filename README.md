@@ -22,11 +22,11 @@
 
 ## 🚀 About Me
 
-- 🎓 Second-year **Computer Science with Artificial Intelligence** student at the **University of York**
-- 🤖 Career aspiration: **AI Engineer**
-- 🛠️ Currently building **Sigora**
-- 🌱 Always learning, shipping, and breaking things to understand how they work
-- 📫 Reach me at **varun.nayak2025@gmail.com**
+- 🎓 Final year **Computer Science with Artificial Intelligence** student at the **University of York**
+- Career aspiration: **AI Engineer**
+- 🛠️ Currently building *IDE for collaboration and streaming prompts, logs and agent sessions across teams **
+- Always learning, shipping, and breaking things to understand how they work
+- Reach me at **varun.nayak2025@gmail.com**
 
 ---
 
@@ -35,10 +35,10 @@
 > 🥇 **NVIDIA Track Winner** — Mistral AI Worldwide Hackathon
 > Built an **On-Device AI Knowledge Synthesizer** with a local PII redaction engine (PyTorch + NVIDIA GLiNER) that scrubs sensitive data on-device before any cloud LLM call, then runs an autonomous knowledge-graph pipeline that clusters and structures raw conversational AI data into queryable educational assets — closing the "vibecoding" retention gap so developers actually learn from rapidly generated AI output.
 >
-> 🤖 **Winner, Multi-Agent AI Challenge** — HackSheffield 10
+> 🥈 **2nd place, Multi-Agent AI Challenge** — HackSheffield 10
 > Built an asynchronous, multi-agent marketing pipeline that mines Slack conversations for context and turns them into LinkedIn posts, helping B2B founders go viral.
 >
-> 💡 **Innovation Prize ("Thinking Without Limits", Frasers Group) & Most Inclusive Hack Award** — HackSheffield 9
+> 🥇🥇 **Innovation Prize ("Thinking Without Limits", Frasers Group) & Most Inclusive Hack Award** — HackSheffield 9
 > Built **ASLBuddy**, a "Duolingo for American Sign Language" — gamified, accessible ASL learning that picked up two awards in one weekend.
 
 ---
