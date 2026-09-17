@@ -24,7 +24,7 @@
 
 - 🎓 Final year **Computer Science with Artificial Intelligence** student at the **University of York**
 - Career aspiration: **AI Engineer**
-- 🛠 ️ Currently building **IDE for collaboration and streaming prompts, logs and agent sessions across team**
+- 🛠️ Currently building **IDE for collaboration and streaming prompts, logs and agent sessions across team**
 - Always learning, shipping, and breaking things to understand how they work
 - Reach me at **varun.nayak2025@gmail.com**
 
